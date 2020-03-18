@@ -1,0 +1,1 @@
+O Git é um software livre que auxilia no fluxo de desenvolvimento de um projeto, onde desenvolvedores podem programar, editar e testar funcionalidades ao mesmo tempo evitando conflitos no desenvolvimento dos softwares.
